@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on an e-commerce site [Vintaje](https://github.com/NelepcuGabi/e-commerce.git)
 
-- 🌱 I’m currently learning **django,python,pygame**
+- 🌱 I’m currently learning **django,python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NelepcuGabi?tab=repositories](https://github.com/NelepcuGabi?tab=repositories)
 
