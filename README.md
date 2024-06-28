@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelepcugabi&label=Profile%20views&color=0e75b6&style=flat" alt="nelepcugabi" /> </p>
 
-- 🔭 I’m currently working on Educational  Hub for Telecom Academy
+- 🔭 I’m currently working on an Educational  Hub for Telecom Academy
 
 - 🌱 I’m currently learning **django,python**
 
